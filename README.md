@@ -10,5 +10,7 @@ This repo aims to provide sample tweaks for you to use with [Autohotkey](https:/
 
 ## Building
 ### Windows
-<p>
-Install Autohotkey and follow their steps to create an executable file. My suggestion is to add this to “shell:startup” (Autostart on newer Windows Systems), so you never lose functionality.</p>
+<p>Install Autohotkey and follow their steps to create an executable file. My suggestion is to add this to “shell:startup” (Autostart on newer Windows Systems), so you never lose functionality.</p>
+
+### macOS
+<p>Just import the .keysmith files to the Keysmith-App.</p>
